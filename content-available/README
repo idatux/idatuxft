@@ -1,0 +1,13 @@
+Put ISOs and XML files here. Note that just because it's in this folder it won't appear in the toaster's main menu screen right away - you need to create a symbolic link to each XML file you want to enable in the content-enabled folder.
+
+XML files should look something like this:
+	<iso>
+		<name> The name of the program </name>
+		<desc> A short description about the program </desc>
+		<url> The path to the HTML description (probably something like html/program name/index.html) </url>
+		<image> The icon to display next to the description in the main menu (probably imgs/program name.png) </image>
+		<file> The path to the ISO file </file>
+	</iso>
+There are example ISOs ready in the content-available folder.
+
+

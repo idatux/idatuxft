@@ -1,0 +1,5 @@
+ONLY MAKE SYMBOLIC LINKS TO XML FILES IN THE content-available FOLDER IN THIS DIRECTORY. NOTHING ELSE. YOU PROBABLY SHOULD DELETE THIS FILE BEFORE RUNNING THE SOFTWARE TOO, JUST TO BE SAFE.
+
+The easiest way to create a symbolic link is to have the content-available and the content-enabled folders open in 2 windows in Ubuntu (or some other Linux OS that uses Nautilus or something like it as its file browser) and drag each XML file from content-available to the content-enabled folder WHILE HOLDING DOWN ctrl + shift.
+
+You could also figure it out in the Terminal, which is annoying.

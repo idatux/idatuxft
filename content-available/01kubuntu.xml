@@ -1,0 +1,7 @@
+<iso>
+	<name>Kubuntu 11.04</name>	  
+	<desc>Kubuntu es un sistema operativo construido por un equipo internacional de desarrolladores expertos.</desc>
+	<url>html/kubuntu/index.html</url>
+	<image>kubuntu.png</image>
+	<file>iso/kubuntu.iso</file>
+</iso>

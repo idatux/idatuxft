@@ -1,0 +1,5 @@
+The ui folder - has all of the pretty pictures that go on buttons and things.
+The xml folder - contains the XML parser that we need to read the XML files.
+
+.py files - important. Don't delete these.
+.pyc files - not important. You can get rid of these but they will come back.

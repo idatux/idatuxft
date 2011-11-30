@@ -1,0 +1,6 @@
+Para instalar Idatux Freedom Toaster debe copiarse el directorio ftoaster
+dentro del directorio /opt
+Es necesario tener python instalado (suele estarlo por defecto en Ubuntu Desktop)
+
+Una vez realizado esto debe darse permiso de ejecución al archivo iniciar.sh y está
+pronto para iniciar el programa con el comando ./iniciar.sh o /opt/ftoaster/iniciar.sh

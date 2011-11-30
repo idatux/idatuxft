@@ -1,0 +1,419 @@
+2011-2-14 19:29:42	ViewISODetails	Generico	/etc/kioskapp/content-available/iso/test.iso
+2011-2-14 19:29:53	BeginDiscWrite	'/etc/kioskapp/content-available/iso/test.iso'	
+2011-2-14/19:29:53	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-2-14/19:29:53	wodim	scsidev: '/dev/scd0'
+2011-2-14/19:29:53	wodim	devname: '/dev/scd0'
+2011-2-14/19:29:53	wodim	scsibus: -2 target: -2 lun: -2
+2011-2-14/19:29:53	wodim	wodim: No such file or directory. 
+2011-2-14/19:29:53	wodim	Cannot open SCSI driver!
+2011-2-14/19:29:53	wodim	For possible targets try 'wodim --devices' or 'wodim -scanbus'.
+2011-2-14/19:29:53	wodim	For possible transport specifiers try 'wodim dev=help'.
+2011-2-14/19:29:53	wodim	For IDE/ATAPI devices configuration, see the file README.ATAPI.setup from
+2011-2-14/19:29:53	wodim	the wodim documentation.
+2011-2-14/19:29:53	wodim	TOC Type: 1 = CD-ROM
+2011-2-14 19:29:53	DiskWriteFailue		
+2011-2-14 19:30:10	ViewISODetails	Generico	/etc/kioskapp/content-available/iso/test.iso
+2011-2-14 19:38:25	HelpScreen		
+2011-2-14 19:43:52	ViewISODetails	Kubuntu 10.04	/etc/kioskapp/content-available/kubuntu1004.iso
+2011-2-14 20:2:31	ViewISODetails	Edubuntu 10.10	/etc/kioskapp/content-available/edubuntu.iso
+2011-2-14 20:4:48	ViewISODetails	Edubuntu 10.10	/etc/kioskapp/content-available/edubuntu.iso
+2011-2-14 20:29:43	ViewISODetails	Xubuntu 10.10	/etc/kioskapp/content-available/iso/xubuntu.iso
+2011-2-14 20:38:31	ViewISODetails	Ubuntu 10.10	/etc/kioskapp/content-available/ubuntu.iso
+2011-2-14 20:41:55	HelpScreen		
+2011-2-14 20:42:1	HelpScreen		
+2011-2-14 20:47:6	HelpScreen		
+2011-2-14 20:47:18	HelpScreen		
+2011-2-14 20:52:22	ViewISODetails	Ubuntu 10.10	/etc/kioskapp/content-available/ubuntu.iso
+2011-2-14 20:56:19	ViewISODetails	Ubuntu 10.10	/etc/kioskapp/content-available/ubuntu.iso
+2011-2-14 20:56:26	ViewISODetails	Edubuntu 10.10	/etc/kioskapp/content-available/edubuntu.iso
+2011-2-14 20:56:32	ViewISODetails	Kubuntu 10.10	/etc/kioskapp/content-available/kubuntu1004.iso
+2011-2-14 20:56:39	ViewISODetails	Xubuntu 10.10	/etc/kioskapp/content-available/iso/xubuntu.iso
+2011-2-14 21:28:58	ViewISODetails	Kubuntu 10.10	/etc/kioskapp/content-available/kubuntu1004.iso
+2011-2-14 21:54:32	ViewISODetails	OpenOffice 3.2.0	/etc/kioskapp/content-available/openoffice.iso
+2011-2-14 21:54:46	BeginDiscWrite	'/etc/kioskapp/content-available/openoffice.iso'	
+2011-2-14/21:54:47	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-2-14/21:54:47	wodim	scsidev: '/dev/scd0'
+2011-2-14/21:54:47	wodim	devname: '/dev/scd0'
+2011-2-14/21:54:47	wodim	scsibus: -2 target: -2 lun: -2
+2011-2-14/21:54:47	wodim	wodim: No such file or directory. 
+2011-2-14/21:54:47	wodim	Cannot open SCSI driver!
+2011-2-14/21:54:47	wodim	For possible targets try 'wodim --devices' or 'wodim -scanbus'.
+2011-2-14/21:54:47	wodim	For possible transport specifiers try 'wodim dev=help'.
+2011-2-14/21:54:47	wodim	For IDE/ATAPI devices configuration, see the file README.ATAPI.setup from
+2011-2-14/21:54:47	wodim	the wodim documentation.
+2011-2-14/21:54:47	wodim	TOC Type: 1 = CD-ROM
+2011-2-14 21:54:47	DiskWriteFailue		
+2011-2-14 21:55:2	ViewISODetails	Xubuntu 10.10	/etc/kioskapp/content-available/iso/xubuntu.iso
+2011-2-14 21:55:13	HelpScreen		
+2011-2-14 21:56:52	HelpScreen		
+2011-2-14 22:23:58	ViewISODetails	LibreOffice 3.3	/etc/kioskapp/content-available/iso/libreoffice.iso
+2011-2-14 22:34:36	ViewISODetails	Kubuntu 10.10	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-2-14 22:49:8	ViewISODetails	LibreOffice 3.3	/opt/ftoaster/content-available/iso/libreoffice.iso
+2011-2-14 22:49:16	BeginDiscWrite	'/opt/ftoaster/content-available/iso/libreoffice.iso'	
+2011-2-14/22:49:17	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-2-14/22:49:17	wodim	scsidev: '/dev/scd0'
+2011-2-14/22:49:17	wodim	devname: '/dev/scd0'
+2011-2-14/22:49:17	wodim	scsibus: -2 target: -2 lun: -2
+2011-2-14/22:49:17	wodim	wodim: No such file or directory. 
+2011-2-14/22:49:17	wodim	Cannot open SCSI driver!
+2011-2-14/22:49:17	wodim	For possible targets try 'wodim --devices' or 'wodim -scanbus'.
+2011-2-14/22:49:17	wodim	For possible transport specifiers try 'wodim dev=help'.
+2011-2-14/22:49:17	wodim	For IDE/ATAPI devices configuration, see the file README.ATAPI.setup from
+2011-2-14/22:49:17	wodim	the wodim documentation.
+2011-2-14/22:49:17	wodim	TOC Type: 1 = CD-ROM
+2011-2-14 22:49:17	DiskWriteFailue		
+2011-2-14 22:56:23	ViewISODetails	LibreOffice 3.3	/opt/ftoaster/content-available/iso/libreoffice.iso
+2011-2-14 22:56:26	BeginDiscWrite	'/opt/ftoaster/content-available/iso/libreoffice.iso'	
+2011-2-14/22:56:26	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-2-14/22:56:26	wodim	scsidev: '/dev/scd0'
+2011-2-14/22:56:26	wodim	devname: '/dev/scd0'
+2011-2-14/22:56:26	wodim	scsibus: -2 target: -2 lun: -2
+2011-2-14/22:56:26	wodim	wodim: No such file or directory. 
+2011-2-14/22:56:26	wodim	Cannot open SCSI driver!
+2011-2-14/22:56:26	wodim	For possible targets try 'wodim --devices' or 'wodim -scanbus'.
+2011-2-14/22:56:26	wodim	For possible transport specifiers try 'wodim dev=help'.
+2011-2-14/22:56:27	wodim	For IDE/ATAPI devices configuration, see the file README.ATAPI.setup from
+2011-2-14/22:56:27	wodim	the wodim documentation.
+2011-2-14/22:56:27	wodim	TOC Type: 1 = CD-ROM
+2011-2-14 22:56:27	DiskWriteFailue		
+2011-2-14 22:56:32	HelpScreen		
+2011-2-14 22:57:26	ViewISODetails	LibreOffice 3.3	/opt/ftoaster/content-available/iso/libreoffice.iso
+2011-2-14 22:57:30	BeginDiscWrite	'/opt/ftoaster/content-available/iso/libreoffice.iso'	
+2011-2-14/22:57:31	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-2-14/22:57:31	wodim	scsidev: '/dev/scd0'
+2011-2-14/22:57:31	wodim	devname: '/dev/scd0'
+2011-2-14/22:57:31	wodim	scsibus: -2 target: -2 lun: -2
+2011-2-14/22:57:31	wodim	wodim: No such file or directory. 
+2011-2-14/22:57:31	wodim	Cannot open SCSI driver!
+2011-2-14/22:57:31	wodim	For possible targets try 'wodim --devices' or 'wodim -scanbus'.
+2011-2-14/22:57:31	wodim	For possible transport specifiers try 'wodim dev=help'.
+2011-2-14/22:57:31	wodim	For IDE/ATAPI devices configuration, see the file README.ATAPI.setup from
+2011-2-14/22:57:31	wodim	the wodim documentation.
+2011-2-14/22:57:31	wodim	TOC Type: 1 = CD-ROM
+2011-2-14 22:57:31	DiskWriteFailue		
+2011-2-14 23:2:59	HelpScreen		
+2011-2-14 23:3:3	HelpScreen		
+2011-2-14 23:3:11	ViewISODetails	Edubuntu 10.10	/opt/ftoaster/content-available/edubuntu.iso
+2011-2-14 23:9:8	HelpScreen		
+2011-2-14 23:9:15	HelpScreen		
+2011-2-14 23:11:34	HelpScreen		
+2011-2-14 23:11:40	HelpScreen		
+2011-2-14 23:11:48	ViewISODetails	OpenOffice 3.2.0	/opt/ftoaster/content-available/openoffice.iso
+2011-2-15 1:31:36	ViewISODetails	Kubuntu 10.10	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-2-15 1:33:13	HelpScreen		
+2011-2-15 1:33:16	HelpScreen		
+2011-3-1 3:8:54	ViewISODetails	OpenOffice 3.2.0	/opt/ftoaster/content-available/openoffice.iso
+2011-3-6 17:9:28	ViewISODetails	LibreOffice 3.3	/opt/ftoaster/content-available/iso/libreoffice.iso
+2011-3-6 17:9:51	ViewISODetails	LibreOffice 3.3	/opt/ftoaster/content-available/iso/libreoffice.iso
+2011-3-6 17:28:51	ViewISODetails	Ubuntu 10.10	/opt/ftoaster/content-available/ubuntu.iso
+2011-3-6 17:30:21	ViewISODetails	Ubuntu 10.10	/opt/ftoaster/content-available/ubuntu.iso
+2011-3-6 17:33:8	ViewISODetails	Ubuntu 10.10	/opt/ftoaster/content-available/ubuntu.iso
+2011-3-6 17:44:9	ViewISODetails	Kubuntu 10.10	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-3-6 17:44:21	ViewISODetails	LibreOffice 3.3	/opt/ftoaster/content-available/iso/libreoffice.iso
+2011-3-6 17:50:13	ViewISODetails	LibreOffice 3.3	/opt/ftoaster/content-available/iso/libreoffice.iso
+2011-3-6 17:50:21	ViewISODetails	Edubuntu 10.10	/opt/ftoaster/content-available/edubuntu.iso
+2011-3-6 17:50:26	ViewISODetails	Xubuntu 10.10	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-3-6 17:50:42	HelpScreen		
+2011-3-6 17:50:46	HelpScreen		
+2011-3-6 17:51:4	ViewISODetails	Ubuntu 10.10	/opt/ftoaster/content-available/ubuntu.iso
+2011-3-6 18:13:46	HelpScreen		
+2011-3-6 18:13:50	HelpScreen		
+2011-3-6 18:14:3	HelpScreen		
+2011-3-6 18:22:31	HelpScreen		
+2011-3-6 18:27:25	HelpScreen		
+2011-3-6 18:33:37	HelpScreen		
+2011-3-6 18:41:11	HelpScreen		
+2011-3-6 18:41:16	HelpScreen		
+2011-3-6 18:41:20	HelpScreen		
+2011-3-6 18:41:49	HelpScreen		
+2011-3-6 18:54:5	HelpScreen		
+2011-3-6 19:0:14	HelpScreen		
+2011-3-6 19:0:20	HelpScreen		
+2011-3-6 19:0:25	HelpScreen		
+2011-3-6 19:7:40	HelpScreen		
+2011-3-6 19:26:36	ViewISODetails	Ubuntu 10.10	/opt/ftoaster/content-available/iso/ubuntu.iso
+2011-3-6 19:26:49	ViewISODetails	LibreOffice 3.3.1	/opt/ftoaster/content-available/iso/libreoffice.iso
+2011-3-6 19:27:3	ViewISODetails	Kubuntu 10.10	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-3-6 19:27:12	BeginDiscWrite	'/opt/ftoaster/content-available/iso/kubuntu.iso'	
+2011-3-6/19:27:13	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-3-6/19:27:13	wodim	scsidev: '/dev/scd0'
+2011-3-6/19:27:13	wodim	devname: '/dev/scd0'
+2011-3-6/19:27:13	wodim	scsibus: -2 target: -2 lun: -2
+2011-3-6/19:27:13	wodim	wodim: No such file or directory. 
+2011-3-6/19:27:13	wodim	Cannot open SCSI driver!
+2011-3-6/19:27:13	wodim	For possible targets try 'wodim --devices' or 'wodim -scanbus'.
+2011-3-6/19:27:13	wodim	For possible transport specifiers try 'wodim dev=help'.
+2011-3-6/19:27:13	wodim	For IDE/ATAPI devices configuration, see the file README.ATAPI.setup from
+2011-3-6/19:27:13	wodim	the wodim documentation.
+2011-3-6/19:27:13	wodim	TOC Type: 1 = CD-ROM
+2011-3-6 19:27:13	DiskWriteFailue		
+2011-3-6 19:38:54	ViewISODetails	Ubuntu 10.10	/opt/ftoaster/content-available/iso/ubuntu.iso
+2011-3-6 19:39:6	ViewISODetails	Kubuntu 10.10	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-3-6 19:39:20	ViewISODetails	Ubuntu 10.10	/opt/ftoaster/content-available/iso/ubuntu.iso
+2011-3-6 19:39:30	ViewISODetails	LibreOffice 3.3.1	/opt/ftoaster/content-available/iso/libreoffice.iso
+2011-3-6 19:39:45	HelpScreen		
+2011-3-6 20:37:24	HelpScreen		
+2011-3-6 20:37:42	HelpScreen		
+2011-3-6 20:38:24	HelpScreen		
+2011-3-6 20:38:29	HelpScreen		
+2011-3-6 20:39:30	HelpScreen		
+2011-3-6 21:11:23	HelpScreen		
+2011-3-6 21:11:26	HelpScreen		
+2011-9-13 21:15:45	HelpScreen		
+2011-9-13 21:15:48	HelpScreen		
+2011-9-13 21:15:50	HelpScreen		
+2011-9-13 21:15:55	HelpScreen		
+2011-9-13 21:17:39	HelpScreen		
+2011-9-13 21:18:14	HelpScreen		
+2011-9-13 21:18:14	HelpScreen		
+2011-9-13 21:18:21	HelpScreen		
+2011-9-13 21:18:24	HelpScreen		
+2011-9-13 21:18:26	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 21:20:42	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 21:22:53	HelpScreen		
+2011-9-13 21:23:2	HelpScreen		
+2011-9-13 21:24:32	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 21:24:37	BeginDiscWrite	'/opt/ftoaster/content-available/iso/xubuntu.iso'	
+2011-9-13/21:24:38	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-9-13/21:24:38	wodim	scsidev: '/dev/scd0'
+2011-9-13/21:24:38	wodim	devname: '/dev/scd0'
+2011-9-13/21:24:38	wodim	scsibus: -2 target: -2 lun: -2
+2011-9-13/21:24:38	wodim	Linux sg driver version: 3.5.27
+2011-9-13/21:24:38	wodim	Wodim version: 1.1.11
+2011-9-13/21:24:38	wodim	SCSI buffer size: 64512
+2011-9-13/21:24:42	wodim	Beginning DMA speed test. Set CDR_NODMATEST environment variable if device
+2011-9-13/21:24:42	wodim	communication breaks or freezes immediately after that.
+2011-9-13/21:24:44	wodim	TOC Type: 1 = CD-ROM
+2011-9-13/21:24:44	wodim	Device type    : Removable CD-ROM
+2011-9-13/21:24:44	wodim	Version        : 5
+2011-9-13/21:24:44	wodim	Response Format: 2
+2011-9-13/21:24:44	wodim	Capabilities   : 
+2011-9-13/21:24:44	wodim	Vendor_info    : 'HL-DT-ST'
+2011-9-13/21:24:44	wodim	Identification : 'DVDRAM GH22NS50 '
+2011-9-13/21:24:44	wodim	Revision       : 'TN03'
+2011-9-13/21:24:44	wodim	Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+2011-9-13/21:24:45	wodim	Current: 0x0000 (Reserved/Unknown)
+2011-9-13/21:24:45	wodim	Profile: 0x0012 (DVD-RAM) 
+2011-9-13/21:24:45	wodim	Profile: 0x0011 (DVD-R sequential recording) 
+2011-9-13/21:24:45	wodim	Profile: 0x0015 (DVD-R/DL sequential recording) 
+2011-9-13/21:24:45	wodim	Profile: 0x0016 (DVD-R/DL layer jump recording) 
+2011-9-13/21:24:45	wodim	Profile: 0x0014 (DVD-RW sequential recording) 
+2011-9-13/21:24:45	wodim	Profile: 0x0013 (DVD-RW restricted overwrite) 
+2011-9-13/21:24:45	wodim	Profile: 0x001A (DVD+RW) 
+2011-9-13/21:24:45	wodim	Profile: 0x001B (DVD+R) 
+2011-9-13/21:24:45	wodim	Profile: 0x002B (DVD+R/DL) 
+2011-9-13/21:24:45	wodim	Profile: 0x0010 (DVD-ROM) 
+2011-9-13/21:24:45	wodim	Profile: 0x0009 (CD-R) 
+2011-9-13/21:24:45	wodim	Profile: 0x000A (CD-RW) 
+2011-9-13/21:24:45	wodim	Profile: 0x0008 (CD-ROM) 
+2011-9-13/21:24:45	wodim	Profile: 0x0002 (Removable disk) 
+2011-9-13/21:24:45	wodim	Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+2011-9-13/21:24:45	wodim	Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+2011-9-13/21:24:45	wodim	Supported modes: TAO PACKET SAO SAO/R96P SAO/R96R RAW/R16 RAW/R96P RAW/R96R
+2011-9-13/21:24:45	wodim	Drive buf size : 1966080 = 1920 KB
+2011-9-13/21:24:45	wodim	Drive DMA Speed: 3100 kB/s 17x CD 2x DVD
+2011-9-13/21:24:45	wodim	FIFO size      : 12582912 = 12288 KB
+2011-9-13/21:24:45	wodim	wodim: No such file or directory. Cannot open '/opt/ftoaster/content-available/iso/xubuntu.iso'.
+2011-9-13 21:24:45	DiskWriteFailue		
+2011-9-13 21:25:18	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 21:26:50	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 21:26:52	BeginDiscWrite	'/opt/ftoaster/content-available/iso/xubuntu.iso'	
+2011-9-13/21:26:52	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-9-13/21:26:52	wodim	scsidev: '/dev/scd0'
+2011-9-13/21:26:52	wodim	devname: '/dev/scd0'
+2011-9-13/21:26:52	wodim	scsibus: -2 target: -2 lun: -2
+2011-9-13/21:26:52	wodim	Linux sg driver version: 3.5.27
+2011-9-13/21:26:52	wodim	Wodim version: 1.1.11
+2011-9-13/21:26:52	wodim	SCSI buffer size: 64512
+2011-9-13/21:26:57	wodim	Beginning DMA speed test. Set CDR_NODMATEST environment variable if device
+2011-9-13/21:26:57	wodim	communication breaks or freezes immediately after that.
+2011-9-13/21:26:59	wodim	TOC Type: 1 = CD-ROM
+2011-9-13/21:26:59	wodim	Device type    : Removable CD-ROM
+2011-9-13/21:26:59	wodim	Version        : 5
+2011-9-13/21:26:59	wodim	Response Format: 2
+2011-9-13/21:26:59	wodim	Capabilities   : 
+2011-9-13/21:26:59	wodim	Vendor_info    : 'HL-DT-ST'
+2011-9-13/21:26:59	wodim	Identification : 'DVDRAM GH22NS50 '
+2011-9-13/21:26:59	wodim	Revision       : 'TN03'
+2011-9-13/21:26:59	wodim	Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+2011-9-13/21:26:59	wodim	Current: 0x0000 (Reserved/Unknown)
+2011-9-13/21:26:59	wodim	Profile: 0x0012 (DVD-RAM) 
+2011-9-13/21:26:59	wodim	Profile: 0x0011 (DVD-R sequential recording) 
+2011-9-13/21:26:59	wodim	Profile: 0x0015 (DVD-R/DL sequential recording) 
+2011-9-13/21:26:59	wodim	Profile: 0x0016 (DVD-R/DL layer jump recording) 
+2011-9-13/21:26:59	wodim	Profile: 0x0014 (DVD-RW sequential recording) 
+2011-9-13/21:26:59	wodim	Profile: 0x0013 (DVD-RW restricted overwrite) 
+2011-9-13/21:26:59	wodim	Profile: 0x001A (DVD+RW) 
+2011-9-13/21:26:59	wodim	Profile: 0x001B (DVD+R) 
+2011-9-13/21:26:59	wodim	Profile: 0x002B (DVD+R/DL) 
+2011-9-13/21:26:59	wodim	Profile: 0x0010 (DVD-ROM) 
+2011-9-13/21:26:59	wodim	Profile: 0x0009 (CD-R) 
+2011-9-13/21:26:59	wodim	Profile: 0x000A (CD-RW) 
+2011-9-13/21:26:59	wodim	Profile: 0x0008 (CD-ROM) 
+2011-9-13/21:26:59	wodim	Profile: 0x0002 (Removable disk) 
+2011-9-13/21:26:59	wodim	Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+2011-9-13/21:26:59	wodim	Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+2011-9-13/21:26:59	wodim	Supported modes: TAO PACKET SAO SAO/R96P SAO/R96R RAW/R16 RAW/R96P RAW/R96R
+2011-9-13/21:26:59	wodim	Drive buf size : 1966080 = 1920 KB
+2011-9-13/21:26:59	wodim	Drive DMA Speed: 3097 kB/s 17x CD 2x DVD
+2011-9-13/21:26:59	wodim	FIFO size      : 12582912 = 12288 KB
+2011-9-13/21:26:59	wodim	wodim: No such file or directory. Cannot open '/opt/ftoaster/content-available/iso/xubuntu.iso'.
+2011-9-13 21:26:59	DiskWriteFailue		
+2011-9-13 21:27:27	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 21:27:55	BeginDiscWrite	'/opt/ftoaster/content-available/iso/xubuntu.iso'	
+2011-9-13/21:27:55	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-9-13/21:27:55	wodim	scsidev: '/dev/scd0'
+2011-9-13/21:27:55	wodim	devname: '/dev/scd0'
+2011-9-13/21:27:55	wodim	scsibus: -2 target: -2 lun: -2
+2011-9-13/21:27:55	wodim	Linux sg driver version: 3.5.27
+2011-9-13/21:27:55	wodim	Wodim version: 1.1.11
+2011-9-13/21:27:55	wodim	SCSI buffer size: 64512
+2011-9-13/21:28:0	wodim	Beginning DMA speed test. Set CDR_NODMATEST environment variable if device
+2011-9-13/21:28:0	wodim	communication breaks or freezes immediately after that.
+2011-9-13/21:28:2	wodim	TOC Type: 1 = CD-ROM
+2011-9-13/21:28:2	wodim	Device type    : Removable CD-ROM
+2011-9-13/21:28:2	wodim	Version        : 5
+2011-9-13/21:28:2	wodim	Response Format: 2
+2011-9-13/21:28:2	wodim	Capabilities   : 
+2011-9-13/21:28:2	wodim	Vendor_info    : 'HL-DT-ST'
+2011-9-13/21:28:2	wodim	Identification : 'DVDRAM GH22NS50 '
+2011-9-13/21:28:2	wodim	Revision       : 'TN03'
+2011-9-13/21:28:2	wodim	Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+2011-9-13/21:28:2	wodim	Current: 0x0000 (Reserved/Unknown)
+2011-9-13/21:28:2	wodim	Profile: 0x0012 (DVD-RAM) 
+2011-9-13/21:28:2	wodim	Profile: 0x0011 (DVD-R sequential recording) 
+2011-9-13/21:28:2	wodim	Profile: 0x0015 (DVD-R/DL sequential recording) 
+2011-9-13/21:28:2	wodim	Profile: 0x0016 (DVD-R/DL layer jump recording) 
+2011-9-13/21:28:2	wodim	Profile: 0x0014 (DVD-RW sequential recording) 
+2011-9-13/21:28:2	wodim	Profile: 0x0013 (DVD-RW restricted overwrite) 
+2011-9-13/21:28:2	wodim	Profile: 0x001A (DVD+RW) 
+2011-9-13/21:28:2	wodim	Profile: 0x001B (DVD+R) 
+2011-9-13/21:28:2	wodim	Profile: 0x002B (DVD+R/DL) 
+2011-9-13/21:28:2	wodim	Profile: 0x0010 (DVD-ROM) 
+2011-9-13/21:28:2	wodim	Profile: 0x0009 (CD-R) 
+2011-9-13/21:28:2	wodim	Profile: 0x000A (CD-RW) 
+2011-9-13/21:28:2	wodim	Profile: 0x0008 (CD-ROM) 
+2011-9-13/21:28:2	wodim	Profile: 0x0002 (Removable disk) 
+2011-9-13/21:28:2	wodim	Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+2011-9-13/21:28:2	wodim	Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+2011-9-13/21:28:2	wodim	Supported modes: TAO PACKET SAO SAO/R96P SAO/R96R RAW/R16 RAW/R96P RAW/R96R
+2011-9-13/21:28:2	wodim	Drive buf size : 1966080 = 1920 KB
+2011-9-13/21:28:2	wodim	Drive DMA Speed: 3098 kB/s 17x CD 2x DVD
+2011-9-13/21:28:2	wodim	FIFO size      : 12582912 = 12288 KB
+2011-9-13/21:28:2	wodim	wodim: No such file or directory. Cannot open '/opt/ftoaster/content-available/iso/xubuntu.iso'.
+2011-9-13 21:28:2	DiskWriteFailue		
+2011-9-13 21:33:36	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 21:33:42	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 21:33:43	ViewISODetails	Kubuntu 11.04	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-9-13 21:33:45	ViewISODetails	Kubuntu 11.04	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-9-13 21:33:46	ViewISODetails	Kubuntu 11.04	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-9-13 21:33:48	HelpScreen		
+2011-9-13 21:34:13	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 21:34:16	ViewISODetails	Kubuntu 11.04	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-9-13 21:34:58	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 21:35:2	HelpScreen		
+2011-9-13 21:35:5	HelpScreen		
+2011-9-13 21:35:8	HelpScreen		
+2011-9-13 21:35:11	HelpScreen		
+2011-9-13 22:3:39	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 22:4:8	ViewISODetails	Kubuntu 11.04	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-9-13 22:4:30	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-13 22:4:42	HelpScreen		
+2011-9-13 22:4:51	HelpScreen		
+2011-9-13 22:4:56	HelpScreen		
+2011-9-13 22:5:1	HelpScreen		
+2011-9-14 0:21:18	HelpScreen		
+2011-9-14 0:21:26	HelpScreen		
+2011-9-14 0:21:31	HelpScreen		
+2011-9-14 0:21:35	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-14 0:21:51	BeginDiscWrite	'/opt/ftoaster/content-available/iso/xubuntu.iso'	
+2011-9-14/0:21:51	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-9-14/0:21:51	wodim	scsidev: '/dev/scd0'
+2011-9-14/0:21:51	wodim	devname: '/dev/scd0'
+2011-9-14/0:21:51	wodim	scsibus: -2 target: -2 lun: -2
+2011-9-14/0:21:51	wodim	Linux sg driver version: 3.5.27
+2011-9-14/0:21:51	wodim	Wodim version: 1.1.11
+2011-9-14/0:21:51	wodim	SCSI buffer size: 64512
+2011-9-14/0:21:51	wodim	wodim: Sorry, no CD/DVD-Recorder or unsupported CD/DVD-Recorder found on this target.
+2011-9-14/0:21:51	wodim	TOC Type: 1 = CD-ROM
+2011-9-14/0:21:51	wodim	Device type    : Removable CD-ROM
+2011-9-14/0:21:51	wodim	Version        : 5
+2011-9-14/0:21:51	wodim	Response Format: 2
+2011-9-14/0:21:51	wodim	Capabilities   : 
+2011-9-14/0:21:51	wodim	Vendor_info    : 'NECVMWar'
+2011-9-14/0:21:51	wodim	Identification : 'VMware IDE CDR10'
+2011-9-14/0:21:51	wodim	Revision       : '1.00'
+2011-9-14/0:21:51	wodim	Device seems to be: Generic mmc CD-ROM.
+2011-9-14/0:21:51	wodim	Current: 0x0000 (Reserved/Unknown)
+2011-9-14/0:21:51	wodim	Profile: 0x0010 (DVD-ROM) 
+2011-9-14 0:21:52	DiskWriteFailue		
+2011-9-14 0:21:58	ViewISODetails	Kubuntu 11.04	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-9-14 0:22:5	BeginDiscWrite	'/opt/ftoaster/content-available/iso/kubuntu.iso'	
+2011-9-14/0:22:5	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-9-14/0:22:5	wodim	scsidev: '/dev/scd0'
+2011-9-14/0:22:5	wodim	devname: '/dev/scd0'
+2011-9-14/0:22:5	wodim	scsibus: -2 target: -2 lun: -2
+2011-9-14/0:22:5	wodim	Linux sg driver version: 3.5.27
+2011-9-14/0:22:5	wodim	Wodim version: 1.1.11
+2011-9-14/0:22:5	wodim	SCSI buffer size: 64512
+2011-9-14/0:22:5	wodim	wodim: Sorry, no CD/DVD-Recorder or unsupported CD/DVD-Recorder found on this target.
+2011-9-14/0:22:5	wodim	TOC Type: 1 = CD-ROM
+2011-9-14/0:22:5	wodim	Device type    : Removable CD-ROM
+2011-9-14/0:22:5	wodim	Version        : 5
+2011-9-14/0:22:5	wodim	Response Format: 2
+2011-9-14/0:22:5	wodim	Capabilities   : 
+2011-9-14/0:22:5	wodim	Vendor_info    : 'NECVMWar'
+2011-9-14/0:22:5	wodim	Identification : 'VMware IDE CDR10'
+2011-9-14/0:22:5	wodim	Revision       : '1.00'
+2011-9-14/0:22:5	wodim	Device seems to be: Generic mmc CD-ROM.
+2011-9-14/0:22:5	wodim	Current: 0x0000 (Reserved/Unknown)
+2011-9-14/0:22:5	wodim	Profile: 0x0010 (DVD-ROM) 
+2011-9-14 0:22:5	DiskWriteFailue		
+2011-9-14 0:22:47	ViewISODetails	Kubuntu 11.04	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-9-14 0:24:10	ViewISODetails	Kubuntu 11.04	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-9-14 0:24:38	ViewISODetails	Kubuntu 11.04	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-9-14 0:25:56	HelpScreen		
+2011-9-14 0:25:58	ViewISODetails	Kubuntu 11.04	/opt/ftoaster/content-available/iso/kubuntu.iso
+2011-9-14 0:26:10	ViewISODetails	Xubuntu 11.04	/opt/ftoaster/content-available/iso/xubuntu.iso
+2011-9-14 0:28:40	BeginDiscWrite	'/opt/ftoaster/content-available/iso/xubuntu.iso'	
+2011-9-14/0:28:40	wodim	wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2011-9-14/0:28:40	wodim	scsidev: '/dev/scd0'
+2011-9-14/0:28:40	wodim	devname: '/dev/scd0'
+2011-9-14/0:28:40	wodim	scsibus: -2 target: -2 lun: -2
+2011-9-14/0:28:40	wodim	Linux sg driver version: 3.5.27
+2011-9-14/0:28:40	wodim	Wodim version: 1.1.11
+2011-9-14/0:28:40	wodim	SCSI buffer size: 64512
+2011-9-14/0:28:45	wodim	Beginning DMA speed test. Set CDR_NODMATEST environment variable if device
+2011-9-14/0:28:45	wodim	communication breaks or freezes immediately after that.
+2011-9-14/0:28:47	wodim	TOC Type: 1 = CD-ROM
+2011-9-14/0:28:47	wodim	Device type    : Removable CD-ROM
+2011-9-14/0:28:47	wodim	Version        : 5
+2011-9-14/0:28:47	wodim	Response Format: 2
+2011-9-14/0:28:47	wodim	Capabilities   : 
+2011-9-14/0:28:47	wodim	Vendor_info    : 'HL-DT-ST'
+2011-9-14/0:28:47	wodim	Identification : 'DVDRAM GH22NS50 '
+2011-9-14/0:28:47	wodim	Revision       : 'TN03'
+2011-9-14/0:28:47	wodim	Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+2011-9-14/0:28:47	wodim	Current: 0x0000 (Reserved/Unknown)
+2011-9-14/0:28:47	wodim	Profile: 0x0012 (DVD-RAM) 
+2011-9-14/0:28:47	wodim	Profile: 0x0011 (DVD-R sequential recording) 
+2011-9-14/0:28:47	wodim	Profile: 0x0015 (DVD-R/DL sequential recording) 
+2011-9-14/0:28:47	wodim	Profile: 0x0016 (DVD-R/DL layer jump recording) 
+2011-9-14/0:28:47	wodim	Profile: 0x0014 (DVD-RW sequential recording) 
+2011-9-14/0:28:47	wodim	Profile: 0x0013 (DVD-RW restricted overwrite) 
+2011-9-14/0:28:47	wodim	Profile: 0x001A (DVD+RW) 
+2011-9-14/0:28:47	wodim	Profile: 0x001B (DVD+R) 
+2011-9-14/0:28:47	wodim	Profile: 0x002B (DVD+R/DL) 
+2011-9-14/0:28:47	wodim	Profile: 0x0010 (DVD-ROM) 
+2011-9-14/0:28:47	wodim	Profile: 0x0009 (CD-R) 
+2011-9-14/0:28:47	wodim	Profile: 0x000A (CD-RW) 
+2011-9-14/0:28:47	wodim	Profile: 0x0008 (CD-ROM) 
+2011-9-14/0:28:47	wodim	Profile: 0x0002 (Removable disk) 
+2011-9-14/0:28:47	wodim	Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+2011-9-14/0:28:47	wodim	Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+2011-9-14/0:28:47	wodim	Supported modes: TAO PACKET SAO SAO/R96P SAO/R96R RAW/R16 RAW/R96P RAW/R96R
+2011-9-14/0:28:47	wodim	Drive buf size : 1966080 = 1920 KB
+2011-9-14/0:28:47	wodim	Drive DMA Speed: 3157 kB/s 17x CD 2x DVD
+2011-9-14/0:28:47	wodim	FIFO size      : 12582912 = 12288 KB
+2011-9-14/0:28:47	wodim	wodim: No such file or directory. Cannot open '/opt/ftoaster/content-available/iso/xubuntu.iso'.
+2011-9-14 0:28:47	DiskWriteFailue		
